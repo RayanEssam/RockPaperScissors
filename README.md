@@ -1,5 +1,5 @@
 # RockPaperScissors
-
+The goal of this project is to get more understanding with storyboard concepts
 <h3>  Downloading Steps  </h3>
 to try the game all you have to do is : 
 
